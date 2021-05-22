@@ -4,7 +4,7 @@ import calc
 class TestCalc(unittest.TestCase):
 
     def test_add(self):
-        self.assertEqual(calc.topla(10,5),15)
+        self.assertEqual(calc.topla(10,5),10)
         self.assertEqual(calc.topla(-1,1),0)
         self.assertEqual(calc.topla(-1,-1),-2)
     def test_subt(self):
