@@ -5,7 +5,7 @@ def cikar(x,y):
     return x-y
 
 def carp (x,y):
-    return x- y
+    return x* y
 
 def böl (x,y):
     if y==0:
