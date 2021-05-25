@@ -12,3 +12,4 @@ def böl (x,y):
         raise ValueError('Can not divide by zero')
     return x/y 
 
+
