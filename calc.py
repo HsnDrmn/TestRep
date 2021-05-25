@@ -7,6 +7,7 @@ def cikar(x,y):
 def carp (x,y):
     return x* y
 
+
 def böl (x,y):
     if y==0:
         raise ValueError('Can not divide by zero')
