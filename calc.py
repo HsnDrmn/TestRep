@@ -1,5 +1,5 @@
 def topla(x,y):
-    return x - y
+    return x + y
     
 def cikar(x,y):
     return x - y
